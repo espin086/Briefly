@@ -1,4 +1,4 @@
-# hpm
+# Briefly
 hpm is an AI-powered tool designed to assist with common office writing tasks.
 
 ![alt text](images/ui.png)
